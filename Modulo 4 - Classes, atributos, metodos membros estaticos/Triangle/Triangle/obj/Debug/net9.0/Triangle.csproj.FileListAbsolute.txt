@@ -1,0 +1,14 @@
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/bin/Debug/net9.0/Triangle
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/bin/Debug/net9.0/Triangle.deps.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/bin/Debug/net9.0/Triangle.runtimeconfig.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/bin/Debug/net9.0/Triangle.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/bin/Debug/net9.0/Triangle.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.AssemblyInfoInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.AssemblyInfo.cs
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/refint/Triangle.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/Triangle.genruntimeconfig.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Triangle/Triangle/obj/Debug/net9.0/ref/Triangle.dll
