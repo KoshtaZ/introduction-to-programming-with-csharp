@@ -14,12 +14,12 @@ public class Produto
 
     public void AdicionarProduto(int quantity)
     {
-        
+        Quantidade += quantity; 
     }
 
     public void RemoverProduto(int quantity)
     {
-        
+        Quantidade -= quantity;
     }
 
     public override string ToString()
