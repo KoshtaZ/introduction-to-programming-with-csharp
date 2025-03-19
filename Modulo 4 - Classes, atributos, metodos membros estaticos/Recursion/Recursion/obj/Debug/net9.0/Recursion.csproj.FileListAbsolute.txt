@@ -1,0 +1,15 @@
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/bin/Debug/net9.0/Recursion
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/bin/Debug/net9.0/Recursion.deps.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/bin/Debug/net9.0/Recursion.runtimeconfig.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/bin/Debug/net9.0/Recursion.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/bin/Debug/net9.0/Recursion.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.AssemblyInfoInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.AssemblyInfo.cs
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.csproj.CoreCompileInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.sourcelink.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/refint/Recursion.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/Recursion.genruntimeconfig.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Recursion/Recursion/obj/Debug/net9.0/ref/Recursion.dll

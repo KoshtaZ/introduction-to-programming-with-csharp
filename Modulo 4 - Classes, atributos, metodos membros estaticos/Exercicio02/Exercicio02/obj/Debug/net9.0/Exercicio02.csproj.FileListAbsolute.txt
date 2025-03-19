@@ -1,0 +1,15 @@
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/bin/Debug/net9.0/Exercicio02
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/bin/Debug/net9.0/Exercicio02.deps.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/bin/Debug/net9.0/Exercicio02.runtimeconfig.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/bin/Debug/net9.0/Exercicio02.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/bin/Debug/net9.0/Exercicio02.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.AssemblyInfoInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.AssemblyInfo.cs
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.csproj.CoreCompileInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.sourcelink.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/refint/Exercicio02.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/Exercicio02.genruntimeconfig.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/Exercicio02/Exercicio02/obj/Debug/net9.0/ref/Exercicio02.dll
