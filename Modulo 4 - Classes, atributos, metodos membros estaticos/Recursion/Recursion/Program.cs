@@ -5,11 +5,12 @@
       
         static void Main(string[] args)
         {
-           
-            Fatorial fatorial = new Fatorial();
-            int n = fatorial.Factorial(3);
+
+            Console.Write("Digite numero: ");
+            int num = int.Parse(Console.ReadLine());
             
-            Console.WriteLine("Fatorial de 3! = " + n);
+            
+            Console.WriteLine("Fatorial de = " + num + "! é: " + Fatorial.Factorial(num));
         }
 
       

@@ -1,0 +1,15 @@
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/bin/Debug/net9.0/MembrosEstaticos
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/bin/Debug/net9.0/MembrosEstaticos.deps.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/bin/Debug/net9.0/MembrosEstaticos.runtimeconfig.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/bin/Debug/net9.0/MembrosEstaticos.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/bin/Debug/net9.0/MembrosEstaticos.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.AssemblyInfoInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.AssemblyInfo.cs
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.csproj.CoreCompileInputs.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.sourcelink.json
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/refint/MembrosEstaticos.dll
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.pdb
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/MembrosEstaticos.genruntimeconfig.cache
+/Users/josecosta/Downloads/introduction-to-programming-with-csharp/Modulo 4 - Classes, atributos, metodos membros estaticos/MembrosEstaticos/MembrosEstaticos/obj/Debug/net9.0/ref/MembrosEstaticos.dll

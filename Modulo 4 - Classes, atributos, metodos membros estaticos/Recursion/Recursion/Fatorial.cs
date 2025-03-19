@@ -2,9 +2,8 @@ namespace Recursion;
 
 public class Fatorial
 {
-    public int numero;
-
-    public int Factorial(int numero)
+    
+    public static int Factorial(int numero)
     {
         if (numero == 0 || numero == 1)
         {
